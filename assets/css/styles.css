@@ -3,7 +3,7 @@
 /* Variables */
 :root {
   --font-family: "Roboto", sans-serf;
-  --normal-font: 400;
+  --normal-font: 600;
   --bold-font: 700;
   --bolder-font: 900;
   --bg-color: #fcfcfc;
@@ -111,8 +111,10 @@ nav ul li {
 }
 
 .hero img {
-  height: 37.5rem;
-  width: 37.5rem;
+  height: 20rem;
+  width: 20rem;
+  margin-top: 2rem;
+  border-radius: 50%;
 }
 
 .bio {
